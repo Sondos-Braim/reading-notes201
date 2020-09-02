@@ -1,6 +1,7 @@
-#HTML, CSS, and JS
+# HTML, CSS, and JS
 
-Websites are created using both HTML and CSS. HTML is used to structure the page and to add the content while CSS is used to style the content. Both HTML and CSS are equally important for the website and both of them work alongside each other. Elements have opening and closing tags and between them are the information that the computer needs to know in order to view it. Attributes provide additional information about the contents of an element. They are found on the opening tag of the element and they have two parts: a name and a value. For example, in order to include a link in your website, you need an <a>and an element that contains the source for the link.
+Websites are created using both **HTML** and **CSS**. HTML is used to structure the page and to add the content while CSS is used to style the content. Both HTML and CSS are equally important for the website and both of them work alongside each other. Elements have opening and closing tags and between them are the information that the computer needs to know in order to view it. Attributes provide additional information about the contents of an element. They are found on the opening tag of the element and they have two parts: a name and a value. For example, in order to include a link in your website, you need an <a>and an element that contains the source for the link.
+ 
 
 <a src=””> </a>
 
@@ -12,7 +13,7 @@ You can write your codes on the notepad that is already downloaded on your PC or
 
 Because there have been several versions of HTML, each web page should begin with a DOCTYPE declaration to tell a browser which version of HTML the page is using.
 
-If you want to add a comment to your code that will not be visible in the user's browser, you can add the text between these characters: <! -- and --> tags It is a good idea to add comments to your code because comments will make it much easier to understand. Although comments are not visible to users in the main browser window, they can be viewed by anyone who looks at the source code behind the page. Comments can also be used around codes to stop that code from being displayed in the browser.
+If you want to add a *comment* to your code that will not be visible in the user's browser, you can add the text between these characters: <! -- and --> tags It is a good idea to add comments to your code because comments will make it much easier to understand. Although comments are not visible to users in the main browser window, they can be viewed by anyone who looks at the source code behind the page. Comments can also be used around codes to stop that code from being displayed in the browser.
 
 Every HTML element can carry the id attribute. It is used to uniquely identify that element from other elements on the page. This attribute is usually used to give the element a distinguished style is the CSS style sheet.
 
@@ -26,9 +27,10 @@ If you want to style a part that is inside a block element you can use the span 
 
 You can use what is called escape characters for characters that are not found on your keyboard ones like <> and the copyright sign.
 
+
 In the past, div tag was used to divide the site into parts, but now it has evolved in terms of different element that are used for different parts and sometimes it is easier because you don’t have to give each div an id to distinguish it from other div tags. We have the:
 
-Header/footer/nav/article/aside/section/hgroup/figure/figcaption
+**Header/footer/nav/article/aside/section/hgroup/figure/figcaption**
 
 Before you start with HTML for creating your webpage, you need to think of your audience. Think of the people that you are creating the content for. Is it going to be a company or for individual purposes? These questions will be a great help when creating your content. For the styling purposes, you need to do a wireframe which allows you to know what information you want to include on each page. Do not forget to use CSS to style your website because it will be a huge help for you visitors. You can also organize the information in groups according to the topic.
 
@@ -38,3 +40,6 @@ The way you write JavaScript is similar to writing HTML and CSS but it has the e
 
 Computers do not understand what everything you want to achieve in terms of their meaning in real world they only receive the instructions and then they execute them. You can make an object that resembles the real world and give it the characteristics that you want and then write a script so it will be executed in case a certain event was done by the user. Some parts of the script are done in case a change happens in the object properties and this is called a method that is triggered by the event.
 
+:)
+
+![programming](https://cdn-media-1.freecodecamp.org/images/0*ngXgBNNdx6iiWP8q.png)
