@@ -3,7 +3,7 @@
 Websites are created using both **HTML** and **CSS**. HTML is used to structure the page and to add the content while CSS is used to style the content. Both HTML and CSS are equally important for the website and both of them work alongside each other. Elements have opening and closing tags and between them are the information that the computer needs to know in order to view it. Attributes provide additional information about the contents of an element. They are found on the opening tag of the element and they have two parts: a name and a value. For example, in order to include a link in your website, you need an <a>and an element that contains the source for the link.
  
 
-<a src=””> </a>
+`<a src=””> </a>`
 
  The majority of attributes can only be used on certain elements, although a few attributes (such as lang) that can appear on any element. 
  
