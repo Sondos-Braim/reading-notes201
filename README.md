@@ -13,7 +13,7 @@ This site is where I am going to keep my notes and summaries when I refer to any
 *[read3](https://sondos-braim.github.io/reading-notes201/read03)* | Lists
 *[read4](https://sondos-braim.github.io/reading-notes201/read04)* | Pair Programming
 *[read5](https://sondos-braim.github.io/reading-notes201/read05)* | Images
-*[read6]()* | **
+*[read6](https://sondos-braim.github.io/reading-notes201/read06)* | DOM
 *[read7]()* | **
 *[read8]()* | **
 *[read9]()* | **
