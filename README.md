@@ -14,7 +14,7 @@ This site is where I am going to keep my notes and summaries when I refer to any
 *[read4](https://sondos-braim.github.io/reading-notes201/read04)* | Pair Programming
 *[read5](https://sondos-braim.github.io/reading-notes201/read05)* | Images
 *[read6](https://sondos-braim.github.io/reading-notes201/read06)* | DOM
-*[read7]()* | **
+*[read7](https://sondos-braim.github.io/reading-notes201/read07)* | Objects
 *[read8]()* | **
 *[read9]()* | **
 *[read10]()* | **
