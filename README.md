@@ -17,7 +17,7 @@ This site is where I am going to keep my notes and summaries when I refer to any
 *[read7](https://sondos-braim.github.io/reading-notes201/read07)* | Objects
 *[read8](https://sondos-braim.github.io/reading-notes201/read08)* | CSS layout
 *[read9](https://sondos-braim.github.io/reading-notes201/read09)* | Forms
-*[read10]()* | **
+*[read10](https://sondos-braim.github.io/reading-notes201/read10)* | Debugging
 *[read11]()* | **
 *[read12]()* | **
 *[read13]()* | **
