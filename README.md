@@ -19,7 +19,7 @@ This site is where I am going to keep my notes and summaries when I refer to any
 *[read9](https://sondos-braim.github.io/reading-notes201/read09)* | Forms
 *[read10](https://sondos-braim.github.io/reading-notes201/read10)* | Debugging
 *[read11](https://sondos-braim.github.io/reading-notes201/read11)* | SEO
-*[read12]()* | **
+*[read12](https://sondos-braim.github.io/reading-notes201/read12)* | Grids and Charts
 *[read13]()* | **
 *[read14]()* | **
 *[read15]()* | **
