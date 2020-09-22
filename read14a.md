@@ -30,6 +30,7 @@
 -	Animations within CSS3 allow the appearance and behavior of an element to be altered in multiple keyframes. Transitions provide a change from one state to another, while animations can set multiple points of transition upon different keyframes.
 -	Animation Duration, Timing Function, & Delay: once you have declared the animation-name property on an element, animations behave similarly to transitions. They include a duration, timing function, and delay if desired. To start, animations need a duration declared using the animation-duration property. As with transitions, the duration may be set in seconds or milliseconds.
 There are some transition ideas that might make your website fun to use:
+
 1-fade in
 
 2-change color
